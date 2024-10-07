@@ -55,21 +55,23 @@
 
 ---
 
-## 📈 Thống Kê GitHub
+## 📈 Statisctic GitHub:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RyuWasMe&show_icons=true&theme=radical)             
 
 ---
-
+## 📊 Most used language:
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RyuWasMe&theme=radical)
 
 ---
 
-## 📫 Liên hệ với tôi
+## 📫 Contact me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/thien-long-ab212a227/)
 [![RyuWasMe](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)](https://github.com/RyuWasMe)
 [![TrangTran](https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white&style=flat)](https://www.facebook.com/profile.php?id=100030853921507)
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat)](mailto:nag18112003@gmail.com)
 
-📫 Cách liên hệ: 
+📫 Or find me by: 
 - Discord: `azure_serenity`
+- Instagram: https://www.instagram.com/azureserenity/
+- X: https://x.com/Ryu_Azr
