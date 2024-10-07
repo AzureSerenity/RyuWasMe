@@ -4,7 +4,7 @@
   <img src="https://avatars.githubusercontent.com/u/95611243?v=4" alt="avatar" width="200" height="200"/>
 </p>
 
-### 👋 Hi, I’m Ryu
+### 👋 Giới thiệu bản thân
 Tôi là một lập trình viên với kinh nghiệm trong các công nghệ web và phát triển ứng dụng. Dưới đây là một số dự án và kỹ năng mà tôi đã làm việc.
 
 ---
