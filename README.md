@@ -16,6 +16,13 @@
 
 ---
 
+## 🎓 Education
+- **Bachelor of Engineering in Software Engineering**
+  - HUTECH University, Ho Chi Minh City, Vietnam
+  - Expected Graduation: 2025
+
+---
+
 ## 🛠 Skills and Tools
 
 ### **Programming Languages**:
