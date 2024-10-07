@@ -77,3 +77,11 @@
 - Discord: `azure_serenity`
 - Instagram: https://www.instagram.com/azureserenity/
 - X: https://x.com/Ryu_Azr
+
+---
+
+## 💖 Donate
+If you appreciate my work and would like to support me, feel free to donate via PayPal:
+
+[![Donate](https://img.shields.io/badge/Donate-PayPal-0070BA?style=flat&logo=paypal&logoColor=white)](https://paypal.me/azureserenity?country.x=VN&locale.x=en_US)
+
