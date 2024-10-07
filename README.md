@@ -5,7 +5,8 @@
 </p>
 
 ### 📷 About Me:
-**<ul>** 
+
+<ul>
 <li>Ryu / Azure / Trang Tran</li>
 <li>Currently majoring in Software Engineering.</li>
 <li>Primary focus on Java and C#.</li>
