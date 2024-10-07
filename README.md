@@ -1,23 +1,23 @@
 ## <p align="center">👋 Hi, I'm Ryu!</p>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/95611243?v=4" alt="avatar" width="200" height="200" style="border-radius: 20"/>
+  <img src="https://avatars.githubusercontent.com/u/95611243?v=4" alt="avatar" width="200" height="200"/>
 </p>
 
-### 📷 About me:
+### 📷 About Me:
 <ul> 
 <li>Ryu/Azure/Trang Tran</li>
-<li>I'm currently an IT student with major in software engineer </li>
-<li>Mainly in Java and C#, ASP.NET Core</li>
-<li>Currently learning for Flutter, API</li>
-<li>Please to help if it in my ability</li>
+<li>I'm currently an IT student majoring in Software Engineering.</li>
+<li>My primary focus is on Java and C#, with experience in ASP.NET Core.</li>
+<li>I'm currently learning Flutter and APIs.</li>
+<li>Feel free to reach out for help if it's within my ability.</li>
 </ul>
 
 ---
 
-## 🛠 Kỹ Năng và Công Cụ
+## 🛠 Skills and Tools
 
-### **Ngôn ngữ lập trình**:
+### **Programming Languages**:
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=flat) 
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat)
 ![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white&style=flat)
@@ -29,7 +29,7 @@
 ![Assembly](https://img.shields.io/badge/-Assembly-6E4C3A?logo=assembly&logoColor=white&style=flat)
 ![Pascal](https://img.shields.io/badge/-Pascal-3B0E8C?logo=pascal&logoColor=white&style=flat)
 
-### **Công cụ**:
+### **Tools**:
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white&style=flat)
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ-000000?logo=intellijidea&logoColor=white&style=flat)
@@ -45,27 +45,28 @@
 
 ---
 
-## 🌟 Các Dự Án Nổi Bật
+## 🌟 Featured Projects
 
-| **Tên Dự Án**                                  | **Mô Tả**                                                                  | **Công Nghệ Sử Dụng**                                                                                      |
-|------------------------------------------------|---------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
-| [Website Thi Trắc Nghiệm Online](https://github.com/RyuWasMe/DoAnLapTrinhWeb_TracNghiem)| Website thi trắc nghiệm online, cung cấp các bộ đề đa dạng môn học, giúp người dùng ôn tập và cải thiện kiến thức      | ![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?logo=dotnet&logoColor=white&style=flat), ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=flat)  |
-| [Hệ thống quản lý sách](https://github.com/RyuWasMe/bookstores)                | Hệ thống quản lý cửa hàng sách, quản lý sản phẩm, khách hàng và bán hàng. | ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat), ![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white&style=flat), ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=flat)  |
-| [Puzzle Game 2](https://github.com/RyuWasMe/PuzzleGame2)                            | Trò chơi ô chữ giải trí đơn giản                     | ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat), ![SDL](https://img.shields.io/badge/-SDL-072B31?logo=SimpleDirectMediaLayer&logoColor=white&style=flat) |
+| **Project Name**                                  | **Description**                                                                  | **Technologies Used**                                                                                      |
+|--------------------------------------------------|-------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
+| [Online Quiz Website](https://github.com/RyuWasMe/DoAnLapTrinhWeb_TracNghiem)| An online quiz platform providing various question sets across subjects to help users review and enhance their knowledge.      | ![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?logo=dotnet&logoColor=white&style=flat), ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=flat)  |
+| [Book Management System](https://github.com/RyuWasMe/bookstores)                | A system for managing a bookstore, overseeing products, customers, and sales. | ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat), ![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white&style=flat), ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=flat)  |
+| [Puzzle Game 2](https://github.com/RyuWasMe/PuzzleGame2)                            | A simple recreational crossword puzzle game.                     | ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat), ![SDL](https://img.shields.io/badge/-SDL-072B31?logo=SimpleDirectMediaLayer&logoColor=white&style=flat) |
 
 ---
 
-## 📈 Statisctic GitHub:
+## 📈 GitHub Statistics:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RyuWasMe&show_icons=true&theme=radical)             
 
 ---
-## 📊 Most used language:
+
+## 📊 Most Used Languages:
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RyuWasMe&theme=radical)
 
 ---
 
-## 📫 Contact me:
+## 📫 Contact Me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/thien-long-ab212a227/)
 [![RyuWasMe](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)](https://github.com/RyuWasMe)
 [![TrangTran](https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white&style=flat)](https://www.facebook.com/profile.php?id=100030853921507)
