@@ -30,6 +30,16 @@
 ![Assembly](https://img.shields.io/badge/-Assembly-6E4C3A?logo=assembly&logoColor=white&style=flat)
 ![Pascal](https://img.shields.io/badge/-Pascal-3B0E8C?logo=pascal&logoColor=white&style=flat)
 
+### **Frameworks**:
+![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?logo=dotnet&logoColor=white&style=flat)
+![Vue](https://img.shields.io/badge/-Vue-4FC08D?logo=vue.js&logoColor=white&style=flat)
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white&style=flat)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&style=flat)
+![Yii](https://img.shields.io/badge/-Yii-8C3C2A?logo=yii&logoColor=white&style=flat)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=flat)
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=black&style=flat)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=flat)
+
 ### **Tools**:
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white&style=flat)
