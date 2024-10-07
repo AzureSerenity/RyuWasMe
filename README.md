@@ -55,20 +55,7 @@ Tôi là một lập trình viên với kinh nghiệm trong các công nghệ we
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RyuWasMe&show_icons=true&theme=radical)
 
-## 🌍 Ngôn Ngữ Phổ Biến
-
-| Ngôn ngữ         | Tỉ lệ phần trăm |
-|------------------|------------------|
-| C                | 20%              |
-| C++              | 15%              |
-| C#               | 15%              |
-| Java             | 10%              |
-| HTML             | 10%              |
-| CSS              | 10%              |
-| JavaScript       | 10%              |
-| SQL              | 5%               |
-| Assembly         | 3%               |
-| Pascal           | 2%               |
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RyuWasMe&theme=radical)
 
 ---
 
