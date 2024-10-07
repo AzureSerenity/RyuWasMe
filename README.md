@@ -1,3 +1,7 @@
+<img src="https://avatars.githubusercontent.com/u/12345678?v=4" alt="avatar" width="200" height="200" align="center"/>
+
+# 👋 Hi, I'm RyuWasMe!
+
 👋 Hi, I’m Ryu
 👀 I’m interested in learning code from everyone, if you don't mind give me some advices
 🌱 I’m currently learning Java/C#
