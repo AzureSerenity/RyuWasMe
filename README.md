@@ -5,7 +5,13 @@
 </p>
 
 ### 👋 Giới thiệu bản thân
-Tôi là một lập trình viên với kinh nghiệm trong các công nghệ web và phát triển ứng dụng. Dưới đây là một số dự án và kỹ năng mà tôi đã làm việc.
+<ul> 
+<li>My name's Ryu</li>
+<li>I'm currently an IT student with major in software engineer </li>
+<li>Mainly in Java and C#, ASP.NET Core</li>
+<li>Currently learning for Flutter, API</li>
+<li>Please to help if it in my ability</li>
+</ul>
 
 ---
 
@@ -43,7 +49,7 @@ Tôi là một lập trình viên với kinh nghiệm trong các công nghệ we
 
 | **Tên Dự Án**                                  | **Mô Tả**                                                                  | **Công Nghệ Sử Dụng**                                                                                      |
 |------------------------------------------------|---------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
-| [Website Thi Trắc Nghiệm Online](https://github.com/RyuWasMe/DoAnLapTrinhWeb_TracNghiem)<style class="none-decoration"></style> | Website thi trắc nghiệm online, cung cấp các bộ đề đa dạng môn học, giúp người dùng ôn tập và cải thiện kiến thức      | ![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?logo=dotnet&logoColor=white&style=flat), ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=flat)  |
+| [Website Thi Trắc Nghiệm Online](https://github.com/RyuWasMe/DoAnLapTrinhWeb_TracNghiem)| Website thi trắc nghiệm online, cung cấp các bộ đề đa dạng môn học, giúp người dùng ôn tập và cải thiện kiến thức      | ![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?logo=dotnet&logoColor=white&style=flat), ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=flat)  |
 | [Hệ thống quản lý sách](https://github.com/RyuWasMe/bookstores)                | Hệ thống quản lý cửa hàng sách, quản lý sản phẩm, khách hàng và bán hàng. | ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat), ![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white&style=flat), ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=flat)  |
 | [Puzzle Game 2](https://github.com/RyuWasMe/PuzzleGame2)                            | Trò chơi ô chữ giải trí đơn giản                     | ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat), ![SDL](https://img.shields.io/badge/-SDL-072B31?logo=SimpleDirectMediaLayer&logoColor=white&style=flat) |
 
@@ -62,8 +68,8 @@ Tôi là một lập trình viên với kinh nghiệm trong các công nghệ we
 ## 📫 Liên hệ với tôi
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/thien-long-ab212a227/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)](https://github.com/RyuWasMe)
+[![TrangTran](https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white&style=flat)](https://www.facebook.com/profile.php?id=100030853921507)
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat)](mailto:nag18112003@gmail.com)
 
 📫 Cách liên hệ: 
-- Facebook: [TrangTran](https://www.facebook.com/profile.php?id=100030853921507) 
 - Discord: `azure_serenity`
-- Email: [nag18112003@gmail.com](mailto:nag18112003@gmail.com)
