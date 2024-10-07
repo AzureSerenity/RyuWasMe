@@ -55,7 +55,11 @@ Tôi là một lập trình viên với kinh nghiệm trong các công nghệ we
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RyuWasMe&show_icons=true&theme=radical)
 
+---
+
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RyuWasMe&theme=radical)
+
+---
 
 ## 📫 Liên hệ với tôi
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/thien-long-ab212a227/)
