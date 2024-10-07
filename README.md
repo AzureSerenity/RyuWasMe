@@ -6,7 +6,7 @@
 
 ### 📷 About me:
 <ul> 
-<li>Call me Ryu/Azure/Trang Tran</li>
+<li>Ryu/Azure/Trang Tran</li>
 <li>I'm currently an IT student with major in software engineer </li>
 <li>Mainly in Java and C#, ASP.NET Core</li>
 <li>Currently learning for Flutter, API</li>
