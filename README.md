@@ -1,3 +1,47 @@
+<style>
+body {
+    background-image: url('https://images.unsplash.com/photo-1727053850611-8351da50cff9?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
+    background-size: cover;
+    color: white; 
+}
+</style>
+
+# 👋 Hi, I'm Ryu!
+
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/95611243?v=4" alt="avatar" width="200" height="200" style="border-radius: 50%;" />
+</p>
+
+## 📷 About Me
+- Ryu / Azure / Trang Tran
+- Currently majoring in Software Engineering
+- Primary focus on Java and C#
+- Highly experienced in ASP.NET Core
+- Currently learning Flutter and APIs
+- Feel free to reach out for help if it's within my ability
+
+---
+
+## 🛠 Skills and Tools
+
+### Programming Languages:
+![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=flat) 
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat)
+![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white&style=flat)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
+
+---
+
+## 📈 GitHub Statistics
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RyuWasMe&show_icons=true&theme=radical)
+
+---
+
+## 📫 Contact Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/thien-long-ab212a227/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)](https://github.com/RyuWasMe)
+
+
 ## <p align="center">👋 Hi, I'm Ryu!</p>
 
 <p align="center">
