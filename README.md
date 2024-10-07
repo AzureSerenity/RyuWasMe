@@ -53,7 +53,11 @@ Tôi là một lập trình viên với kinh nghiệm trong các công nghệ we
 
 ## 📈 Thống Kê GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RyuWasMe&show_icons=true&theme=radical)             ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RyuWasMe&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RyuWasMe&show_icons=true&theme=radical)             
+
+---
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RyuWasMe&theme=radical)
 
 ---
 
@@ -62,6 +66,6 @@ Tôi là một lập trình viên với kinh nghiệm trong các công nghệ we
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)](https://github.com/RyuWasMe)
 
 📫 Cách liên hệ: 
-- Facebook: [link đến facebook](https://www.facebook.com/profile.php?id=100030853921507) 
+- Facebook: [TrangTran](https://www.facebook.com/profile.php?id=100030853921507) 
 - Discord: `azure_serenity`
 - Email: [nag18112003@gmail.com](mailto:nag18112003@gmail.com)
