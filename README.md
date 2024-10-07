@@ -84,4 +84,6 @@
 If you appreciate my work and would like to support me, feel free to gift me a cup of coffee :3
 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-0070BA?style=flat&logo=paypal&logoColor=white)](https://paypal.me/azureserenity?country.x=VN&locale.x=en_US)
+[![Ko-fi](https://img.shields.io/badge/Donate-Ko--fi-FF5E5B?style=flat&logo=kofi&logoColor=white)](https://ko-fi.com/azure_serenity)
+
 
