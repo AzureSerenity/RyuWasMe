@@ -4,7 +4,7 @@
   <img src="https://avatars.githubusercontent.com/u/95611243?v=4" alt="avatar" width="200" height="200"/>
 </p>
 
-### 👋 Giới thiệu bản thân
+### 👋 About me:
 <ul> 
 <li>My name's Ryu</li>
 <li>I'm currently an IT student with major in software engineer </li>
