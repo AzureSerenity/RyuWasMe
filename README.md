@@ -33,11 +33,11 @@
 ### **Tools**:
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white&style=flat)
+![Trello](https://img.shields.io/badge/-Trello-0079BF?logo=trello&logoColor=white&style=flat)
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ-000000?logo=intellijidea&logoColor=white&style=flat)
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudio&logoColor=white&style=flat)
 ![Vim](https://img.shields.io/badge/-Vim-019733?logo=vim&logoColor=white&style=flat)
 ![Chrome DevTools](https://img.shields.io/badge/-Chrome%20DevTools-4285F4?logo=googlechrome&logoColor=white&style=flat)
-![Trello](https://img.shields.io/badge/-Trello-0079BF?logo=trello&logoColor=white&style=flat)
 ![Notion](https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white&style=flat)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
 ![Draw.io](https://img.shields.io/badge/-Draw.io-0E76A8?logo=diagrams.net&logoColor=white&style=flat)
