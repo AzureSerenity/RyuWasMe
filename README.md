@@ -53,7 +53,7 @@ Tôi là một lập trình viên với kinh nghiệm trong các công nghệ we
 
 ## 📈 Thống Kê GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RyuWasMe&show_icons=true&theme=radical) ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RyuWasMe&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RyuWasMe&show_icons=true&theme=radical)             ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RyuWasMe&theme=radical)
 
 ---
 
