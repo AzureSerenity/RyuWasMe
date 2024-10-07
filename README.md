@@ -2,7 +2,7 @@
 body {
     background-image: url('https://images.unsplash.com/photo-1727053850611-8351da50cff9?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
     background-size: cover;
-    color: white; 
+    color: white; /* Điều chỉnh màu chữ cho phù hợp với nền */
 }
 </style>
 
