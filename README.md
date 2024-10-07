@@ -20,7 +20,7 @@
 ## 🎓 Education
 - **Bachelor of Engineering in Software Engineering**
   - HUTECH University, Ho Chi Minh City, Vietnam
-  - Expected Graduation: 2025
+  - Academic Year: 2021 - 2025
 
 ---
 
