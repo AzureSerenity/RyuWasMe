@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ryu!
+# <p align="center"> 👋 Hi, I'm Ryu! </p>
 
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/95611243?v=4" alt="avatar" width="200" height="200" style="border-radius: 50%;" />
