@@ -92,9 +92,9 @@
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat)](mailto:nag18112003@gmail.com)
 
 📫 Or find me by: 
-- Discord: `azure_serenity`
-- Instagram: https://www.instagram.com/azureserenity/
-- X: https://x.com/Ryu_Azr
+- Discord: [`azure_serenity`](https://discord.com/users/688182990953906262)
+- Instagram: [Instagram](https://www.instagram.com/azureserenity/)
+- X: [X](https://x.com/Ryu_Azr)
 
 ---
 
