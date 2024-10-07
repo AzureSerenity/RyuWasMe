@@ -93,8 +93,8 @@
 
 📫 Or find me by: 
 - **Discord**: [`azure_serenity`](https://discord.com/users/688182990953906262)
-- Instagram: [`azureserenity`](https://www.instagram.com/azureserenity/)
-- X: [`@Ryu_Azr`](https://x.com/Ryu_Azr)
+- **Instagram**: [`azureserenity`](https://www.instagram.com/azureserenity/)
+- **X**: [`@Ryu_Azr`](https://x.com/Ryu_Azr)
 
 ---
 
