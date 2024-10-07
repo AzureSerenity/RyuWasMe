@@ -13,6 +13,13 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
 
+## 🛠 Kỹ năng và Công cụ
+
+| Ngôn ngữ lập trình  | Công cụ           | Frameworks           |
+|--------------------|------------------|----------------------|
+| ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat) | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat) | ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat) |
+| ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat) | ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat) | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat) |
+
 ## 🌟 Dự án nổi bật
 - [Project A](https://github.com/RyuWasMe/DoAnLapTrinhWeb_TracNghiem): Website thi trắc nghiệm online.
 - [Project B](https://github.com/RyuWasMe/bookstores): Hệ thống quản lý sách
