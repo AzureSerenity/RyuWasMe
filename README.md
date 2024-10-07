@@ -1,16 +1,17 @@
 ## <p align="center">👋 Hi, I'm Ryu!</p>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/95611243?v=4" alt="avatar" width="200" height="200" style="border-radius: 50%;"/>
+  <img src="https://avatars.githubusercontent.com/u/95611243?v=4" alt="avatar" width="200" height="200"/>
 </p>
 
 ### 📷 About Me:
 <ul> 
-<li>Ryu/Azure/Trang Tran</li>
-<li>I'm currently an IT student majoring in Software Engineering.</li>
-<li>My primary focus is on Java and C#, with experience in ASP.NET Core.</li>
-<li>I'm currently learning Flutter and APIs.</li>
-<li>Feel free to reach out for help if it's within my ability.</li>
+<li>Ryu / Azure / Trang Tran</li>
+<li>Currently majoring in Software Engineering.</li>
+<li>Primary focus on Java and C#.</li>
+<li>Highly experienced in ASP.NET Core.</li>
+<li>Currently learning Flutter and APIs.</li>
+<li>Feel free to reach out for help if it’s within my ability.</li>
 </ul>
 
 ---
