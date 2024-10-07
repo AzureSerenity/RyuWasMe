@@ -5,6 +5,7 @@
 </p>
 
 ### 📷 About Me:
+****
 <ul> 
 <li>Ryu / Azure / Trang Tran</li>
 <li>Currently majoring in Software Engineering.</li>
