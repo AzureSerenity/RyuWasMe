@@ -81,7 +81,7 @@
 ---
 
 ## 💖 Donate
-If you appreciate my work and would like to support me, feel free to donate via PayPal:
+If you appreciate my work and would like to support me, feel free to gift me a cup of coffee :3
 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-0070BA?style=flat&logo=paypal&logoColor=white)](https://paypal.me/azureserenity?country.x=VN&locale.x=en_US)
 
