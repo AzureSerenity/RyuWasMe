@@ -112,12 +112,12 @@
 
 ## 📈 GitHub Statistics:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RyuWasMe&show_icons=true&theme=radical)             
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AzureSerenity&show_icons=true&theme=radical)             
 
 ---
 
 ## 📊 Most Used Languages:
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RyuWasMe&theme=radical)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AzureSerenity&theme=radical)
 
 ---
 
