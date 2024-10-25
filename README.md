@@ -62,6 +62,7 @@
 ![Draw.io](https://img.shields.io/badge/-Draw.io-0E76A8?logo=diagrams.net&logoColor=white&style=flat)
 ![ChatGPT](https://img.shields.io/badge/-ChatGPT-00BFFF?logo=openai&logoColor=white&style=flat)
 ![JetBrains](https://img.shields.io/badge/-JetBrains-000000?logo=jetbrains&logoColor=white&style=flat)
+![Project Manager](https://img.icons8.com/ios/50/000000/project-management.png)
 
 ---
 
