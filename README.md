@@ -37,6 +37,7 @@
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=flat)
 ![Assembly](https://img.shields.io/badge/-Assembly-6E4C3A?logo=assembly&logoColor=white&style=flat)
 ![Pascal](https://img.shields.io/badge/-Pascal-3B0E8C?logo=pascal&logoColor=white&style=flat)
+![Dart](https://img.shields.io/badge/-Dart-00BFFF?logo=dart&logoColor=white&style=flat)
 
 ### **Frameworks**:
 ![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?logo=dotnet&logoColor=white&style=flat)
